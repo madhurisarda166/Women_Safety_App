@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285587686753",
+    "project_id": "annular-primer-306208",
+    "storage_bucket": "annular-primer-306208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285587686753:android:ba2f6fb7b638c6ee46f120",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285587686753-5g7k0ugim196lgp4gh1h3a4ho73bv9gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIiBOFbrRuBAF_QBSibun22YHQylDItc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285587686753-5g7k0ugim196lgp4gh1h3a4ho73bv9gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
